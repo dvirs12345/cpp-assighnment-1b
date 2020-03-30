@@ -42,6 +42,7 @@ namespace phonetic
         return false;
     }
 
+	/* Returns the string with all lower case letters */
 	string lowercase(string s)
 	{
 		string help = "";
